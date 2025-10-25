@@ -21,7 +21,7 @@ body {
   height: 250px;
   object-fit: cover;
   border-radius: 20px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  box-shadow: 0 0 20px rgba(255, 49, 49, 0.5);
 }
 
 .seccion .contenido h1 {
